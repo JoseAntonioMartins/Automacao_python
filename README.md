@@ -4,6 +4,6 @@ Projetos com python automação Pyautogui
 - Criado para fazer vendas manuais,
 - Usei principalmente para acerto de estoque.
 
-Só precisa de ser ajuatado à nescessidade de vocês.
+Só precisa de ser ajustado à nescessidade de vocês.
 
 Não funcionou bem em telas remotas.
