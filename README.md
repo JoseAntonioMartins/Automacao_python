@@ -1,5 +1,5 @@
 # projetos_python
-Projetos com python automação
+Projetos com python automação Pyautogui
 - Gera cupons apartir de valores de entradas,
 - Criado para fazer vendas manuais,
 - Usei principalmente para acerto de estoque.
